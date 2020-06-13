@@ -1,2 +1,2 @@
-# PGLearning-CodeSandbox-
-Created with CodeSandbox
+# PGLearning-Javascript
+「CodeSandbox」で書いたJavascript学習用のリポジトリです。
